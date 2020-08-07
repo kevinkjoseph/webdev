@@ -1,16 +1,19 @@
 ---
+
 name: Spaceport America Cup 2020
 tools: [rocketry, mechanical, design]
 image: https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_a5fnn95f/def_height/2700/def_width/2700/version/100012/type/1
-description: Over 1,700 students and faculty gather in Southern New Mexico for the annual Spaceport America Cup every year. Drawn by the opportunity to collaborate and to realise our rocketry dream to come alive, we formed a team at NYU Abu Dhabi to participate in the competition. 
+description: Over 1,700 students and faculty gather in Southern New Mexico for the annual Spaceport America Cup every year. Drawn by the opportunity to collaborate and to realise our rocketry dream to come alive, we formed a team at NYU Abu Dhabi to participate in this competition. 
 ---
 # Team
-We are a team of 10 undergradatue students consisting of freshmans, sophomores, juniors and seniors. Our team is inter-disciplinary but with a common intrest-**Build and Launch Rockets to Space!**
+We are a team of 10 undergraduate students consisting of freshmans, sophomores, juniors and seniors. Our team is inter-disciplinary but with a common interest-*Build and Launch Rockets to Space!*. We were supervised by [Prof. Matt Karau](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/matthew-karau.html).
 
 # Payload 
 A set of functional instrumentation, totaling three CubeSat Units (altogether 10.0 cm x 10.0 cm x 30.0 cm) for a total mass of 11.0 lbs, will be mounted on a CubeSat standard form factor adapter. The intrumentation will perform measurements of tropospheric ozone concentrations. In the local context of the UAE previous studies have linked seasonal elevations of ozone concentration in the middle troposphere to emissions from neighboring petrochemical industries. Ozone content is considered a harmful pollutant when found in lower atmosphere. Further sounding of this layer will provide insight into the dynamic atmospheric processes in this region as well as provide evidence for future policy making.
 
+
 ![preview](https://i.imgur.com/H9Q5z7m.png)
+  <center><i>Our Rocket Simualtion</i> </center>
 
 # Recovery 
 
