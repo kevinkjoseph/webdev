@@ -1,7 +1,0 @@
-- name: AutoDesk CAD
-  percentage: 95
-  color: info
-
-- name: COMSOL
-  percentage: 90
-  color: success
