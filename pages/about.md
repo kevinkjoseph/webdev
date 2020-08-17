@@ -16,7 +16,9 @@ I am a Junior(third-year) studying Mechanical Engineering  at NYU Abu Dhabi. Alt
 <br>
 Living in Abu Dhabi for the past 20 years, I have witnessed the oil-boom which has propelled the development of a pearl diving village to a large, developed metropolis. For the past two years, I have been moving around the world to cities like Mumbai, New York and Istanbul and also had the oppurtunity to live in a different part of Abu Dhabi-Saadiyat Island. These cities all have one thing in common- they are bustling centers of the world. However, they contrast deeply in the ideas, soil, climate cultures and design making me deeply interested in Urban Engineering, Data, Geotechnical Engineering, Sustainability and Policy-Making.
 
+My recent exploration into rocketery projects have also made me deeply interested in Space Engineering and Research. My attention to detail to different terrain, soil, climate and environment make me interested in space related research, design and payload.
+
 I love conversations, collabrations or just to hear your opinions on what I do or just anything! Feel free to reach me through any of mediums mentioned below. Coffee on me! 
 
 
-{% include elements/button.html link="https://www.thegazelle.org/issue/163/features/real-people-real-problems-realad" text="Download CV" block=true %}
+{% include elements/button.html link="https://drive.google.com/file/d/1f44Wyz3QCgFZ9VA-LO5g3-7bw0OPp5ne/view?usp=sharing" text="Download CV" block=true %}
