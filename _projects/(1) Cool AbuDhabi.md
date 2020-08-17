@@ -1,7 +1,7 @@
 ---
-name: Cool Abu Dhabi
+name: Cool Abu Dhabi Competition 
 tools: [design, sustainability,urban,public spaces]
-image: https://images.squarespace-cdn.com/content/v1/5e00ed766245a8392e7d8014/1593623575557-KAP13HS9PT48M4M6HDFL/ke17ZwdGBToddI8pDm48kJeyagMCakSXN8kbGiJvcWJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw7vjZWOKX0YDnZ0HKoy0O6ocsCFa469TXPo7j3bSy2EZRd_KTTeb5533FeAdp3vvE/Logo_2.png?format=1500w
+image: https://assets.wam.ae/uploads/2017/05/1575015918162.jpg
 description: COOLPARK is an innovative solution to recreate an oasis, a multifunctional public space for people to destress, take a stroll, kids to play, people to work and hold events. COOLPARK’s science and forward-thinking strategies help to reduce heat. This project was the official entry from NYU Abu Dhabi to Abu Dhabi Muncipality and the Dyson Award.
 ---
 
@@ -22,3 +22,5 @@ This 40 meter by 8-meter vent efficiently absorbs heat from sunlight, producing 
 # Promo Video
 
 {% include elements/video.html id="StRPfOBowF8" %}
+To view our Dyson Award Entry,
+{% include elements/button.html link="https://www.jamesdysonaward.org/en-AE/2020/project/coolpark/" text="Click here" block=true %}
