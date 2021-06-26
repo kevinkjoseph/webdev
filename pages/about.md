@@ -21,4 +21,4 @@ My recent exploration into rocketry projects have also made me deeply interested
 I love conversations, collabrations or just to hear your opinions on what I do or just anything! Feel free to reach me through any of mediums mentioned below. Coffee on me! 
 
 
-{% include elements/button.html link="https://drive.google.com/file/d/1f44Wyz3QCgFZ9VA-LO5g3-7bw0OPp5ne/view?usp=sharing" text="Download CV" block=true %}
+{% include elements/button.html link="https://drive.google.com/file/d/1LR7aog2wdi7chi1ZddI2nUlbod4Nts3a/view?usp=sharing" text="Download CV" block=true %}

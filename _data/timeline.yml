@@ -1,0 +1,14 @@
+- title: L.A.N.D Group, NYU Abu Dhabi
+  from: February 2021
+  to: Current
+  description: Working with Prof. Mohammed Daqaq to use 3D printing for the design of functional mechanical springs inspired by origami. We have devloped an intermediate origami prototype with applications to remove atheromatous plaque from arteries.
+
+- title: Urban Modeling Group, NYU Tandon School of Engineering, New York
+  from: June 2020
+  to: Current
+  description: Working with Prof. Debra Laefer to develop a framework for 3D epidemiology for COVID-19 funded by NSF grant. We have developed protocols for risk-identification and sanitation using Thermal Imaging, Machine Learning and HoloLens. Also, we collected Thermal Data of over 100 objects to investigate patterns of disease spread and possible preventive measures.
+  
+- title: NetBio Group, NYU Abu Dhabi
+  from: June 2020
+  to: August 2020
+  description: Worked with Prof. Andras Gyorgy to design of a low-cost 3D printed IoT device to monitor cell growth in Erlenmeyerflasks. Our team simulated simple light refraction models in flasks using COMSOL and using ray-tracing method in MATLAB. We also collaborated with co-peers to interpret the light propagation and fluid dynamics model of the fluid during cell-culture.
