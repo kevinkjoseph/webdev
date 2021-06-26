@@ -24,15 +24,18 @@ weight: 2
 ![preview](https://i.imgur.com/cxwOJtM.png)
   <center><i>Our intermediate Prototype</i> </center>
   
-  
+<br>
+<br>
 ## Urban Modeling Lab, NYU Tandon School of Engineering
 
 
 
-![preview](https://i.imgur.com/GdZDXac.jpg)
-  <center><i>Our Conference Poster </i> </center>
-
+{% include elements/button.html link="https://drive.google.com/file/d/1loDDQNNfTx2MyDRhFu_gLwsBvjM0A4ao/view?usp=sharing" text="View Conference Poster here" block=true %}
+  
+<br>
+<br>
   
 ## NetBio Group, NYU Abu Dhabi
-  ![preview](https://i.imgur.com/jglpUQL.png,https://i.imgur.com/Ae5ZPjE.png)
+  ![preview](https://i.imgur.com/jglpUQL.png)
+  ![preview](https://i.imgur.com/Ae5ZPjE.png)
   <center><i>Our renderings on Matlab and Blender</i> </center>
