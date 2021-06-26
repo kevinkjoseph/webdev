@@ -11,7 +11,7 @@ weight: 3
 <br>
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I am a Junior(third-year) studying Mechanical Engineering  at NYU Abu Dhabi. Although, I am from India, I call Abu Dhabi my home. 
+I am a senior(fourth-year) studying Mechanical Engineering  at NYU Abu Dhabi. Although, I am from India, I call Abu Dhabi my home. 
 
 <br>
 Living in Abu Dhabi for the past 20 years, I have witnessed the oil-boom which has propelled the development of a pearl diving village to a large, developed metropolis. For the past two years, I have been moving around the world to cities like Mumbai, New York and Istanbul and also had the oppurtunity to live in a different part of Abu Dhabi-Saadiyat Island. These cities all have one thing in common- they are bustling centers of the world. However, they contrast deeply in the ideas, soil, climate cultures and design making me deeply interested in Urban Engineering, Data, Geotechnical Engineering, Sustainability and Policy-Making.

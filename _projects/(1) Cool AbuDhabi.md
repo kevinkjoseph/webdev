@@ -11,7 +11,7 @@ We are a team of 3 undergraduate engineering students passionate about sustainab
 
 The resulting high temperatures coupled with Urban Heat Effect have made daily activities, such as simple work-home commutes, outdoor exercises became increasingly difficult and less comfortable for residents like us. We realized that the Urban Heat Island Effect plays a major role in accumulating heat on the island and as an interdisciplinary team, we sought to find solutions to curb heat accumulation on the island. Fortunately, opportunities such as the Dyson Award inspired us to design, innovate, and draw a refreshing public space where Abu Dhabi comes together. Its holistic design and sustainable mindset help lower energy consumption.
 
-![preview](https://www.jamesdysonaward.org/Document/b02aa39a-37ff-4c0d-8d79-1f2cc7b6e5d7/1.jpg)
+![preview](https://drive.google.com/file/d/1xw0rp1XZ6Ie8L3rHfhc9-ZJduHhOr0u-/view?usp=sharing)
   <center><i>CoolPark™ Aerial View</i> </center>
   
 # Model
