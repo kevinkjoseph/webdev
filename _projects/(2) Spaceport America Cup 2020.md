@@ -6,9 +6,9 @@ image: https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry
 description: Over 1,700 students and faculty gather in Southern New Mexico for the annual Spaceport America Cup every year. Drawn by the opportunity to collaborate and to realise our rocketry dream to come alive, we formed a team at NYU Abu Dhabi to participate in this competition. 
 ---
 # Team
-We are a team of 10 undergraduate students consisting of freshmans, sophomores, juniors and seniors. Our team is inter-disciplinary but with a common interest-*Build and Launch Rockets to Space!*. We were supervised by [Prof. Matt Karau](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/matthew-karau.html).
+We are a team of 10 undergraduate students consisting of freshmans, sophomores, juniors and seniors. We came from different backgrounds but had a common interest-*Build and Launch Rockets to Space!*. We were supervised by [Prof. Matt Karau](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/matthew-karau.html).
 
-# Dimensions of Rocket
+# Dimensions of the Rocket
 <br>Airframe Length (inches): 80.7
 <br>Airframe Length (inches): 80.7
 <br>Airframe Diameter (inches):	5.91	

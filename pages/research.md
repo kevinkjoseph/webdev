@@ -17,6 +17,11 @@ weight: 2
 <br>
 <br>
 <br>
+
+# Highlights
+
+<br>
+<br>
 ## L.A.N.D Group, NYU Abu Dhabi
 
 
@@ -29,6 +34,8 @@ weight: 2
 ## Urban Modeling Lab, NYU Tandon School of Engineering
 
 
+<br>
+<br>
 
 {% include elements/button.html link="https://drive.google.com/file/d/1loDDQNNfTx2MyDRhFu_gLwsBvjM0A4ao/view?usp=sharing" text="View Conference Poster here" block=true %}
   
