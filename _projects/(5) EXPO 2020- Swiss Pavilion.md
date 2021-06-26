@@ -6,7 +6,7 @@ image: https://www.expo2020dubai.com/-/media/expo2020/2021/understanding-expo/pa
 description: The main purpose of the project is to change the attitude of society towards waste. To create a circular economy, we are proposing a combined solution that leverages Microwave Induced Plasma Gasification (MIPG) and Anaerobic Membrane Bioreactors (MBR) technologies as well as youth involvement to turn waste into various valuable resources.
 ---
 # Team
-Our multidisciplinary team is proposing an innovative solution that aims to solve the problem of massive waste generation. Our solution makes use of microwave induced plasma gasification (MIPG) and membrane bioreactors (MBR) as a means to tackle all five types of waste proposed by the SMECEYI competition, namely wastewater, food waste, plastic waste, electronic waste, and construction waste. We are supervised by [Prof. Philip Panicker](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/philip-panicker.html) and [Prof. Daniel Johnson].(https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/daniel-johnson.html).
+Our multidisciplinary team is proposing an innovative solution that aims to solve the problem of massive waste generation. Our solution makes use of microwave induced plasma gasification (MIPG) and membrane bioreactors (MBR) as a means to tackle all five types of waste proposed by the SMECEYI competition, namely wastewater, food waste, plastic waste, electronic waste, and construction waste. We are supervised by [Prof. Philip Panicker](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/philip-panicker.html) and [Prof. Daniel Johnson.](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/daniel-johnson.html).
 
 # Scope and Goals 
 

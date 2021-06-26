@@ -19,4 +19,4 @@ I love conversations, collabrations or just to hear your opinions on what I do o
 
 <br>
 
-{% include elements/button.html link="https://drive.google.com/file/d/1eJpw-TXMod49UIHibY8f0xV4RNV14k36/view?usp=sharing" text="Download CV" block=true %}
+{% include elements/button.html link="https://drive.google.com/file/d/1TGnNg31UxQLUi0SsoIMSe6iJvkAdB7p5/view?usp=sharing" text="Download CV" block=true %}
